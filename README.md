@@ -41,10 +41,14 @@ npm run start
 
 Weather and air-quality data come from [Open-Meteo](https://open-meteo.com/). Location search uses Open-Meteo geocoding, with OpenStreetMap reverse geocoding used only when the browser location button is selected.
 
+## Live site
+
+The production deployment is available at:
+
+[Open the Atmos weather dashboard](https://atmos-weather-dashboard.plentify-4744.chatgpt.site)
+
+The live site is hosted on Sites. This GitHub repository contains the source code and README for the project.
+
 ## Model attribution
 
 This site was designed and implemented with OpenAI GPT-5 through Codex.
-
-## Hosting
-
-The original Atmos experience is deployed on Sites and can be used as the reference deployment while this repository serves as the source-code home.
